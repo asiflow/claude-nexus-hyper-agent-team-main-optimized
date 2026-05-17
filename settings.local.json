@@ -1,6 +1,9 @@
 {
   "permissions": {
-    "allow": [],
+    "allow": [
+      "Bash(python3 .claude/agent-memory/trust-ledger/ledger.py standings)",
+      "Bash(python3 /Users/ok/PhpstormProjects/asiflow/claude-nexus-hyper-agent-team-main-optimized/.claude/tests/agents/run_contract_tests.py)"
+    ],
     "deny": []
   },
   "outputStyle": "Explanatory"
